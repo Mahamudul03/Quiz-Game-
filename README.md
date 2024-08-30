@@ -62,7 +62,10 @@ Enjoy the quiz and test your astronomy knowledge!
 
 
 If you find any issues or have suggestions for improvement, feel free to create a new issue or submit a pull request.
-License
+
+**License**
+
+
 This project is licensed under the MIT License.
 
 **Acknowledgments**
