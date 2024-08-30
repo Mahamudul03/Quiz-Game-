@@ -1,0 +1,37 @@
+print ('Welcome to my quiz game')
+
+playing = input("Do you want to play? " )
+if playing != "yes":
+    quit()
+print("Okey! Let's Play :)) ")
+score = 0
+answer = input(" What is the nearest star to Earth? " )
+if answer=="Proxima Centauri":
+    print("Your answer is correct!")
+    score += 1
+
+else:
+    print("Incorrect!")
+answer = input(" What is the largest planet in our solar system ?  " )
+
+if answer=="Jupiter":
+    print("Your answer is correct!")
+    score += 1
+
+else:
+    print("Incorrect!")
+
+answer = input(" What is the name of the first artificial satellite launched into space? " )
+
+if answer=="Sputnik":
+    print("Your answer is correct!")
+    score += 1
+
+else:
+    print("Incorrect!")
+
+
+
+print("You got" +  str(score)
+      + "correct answer")
+
