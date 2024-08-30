@@ -48,6 +48,11 @@ else:
 
 
 Make sure to update the score variable accordingly if the answer is correct.
+![image](https://github.com/user-attachments/assets/3d528491-0120-4e42-9701-520ae63c0361)
+
+![image](https://github.com/user-attachments/assets/136008f7-40bf-41dd-9ab4-da655e099fa3)
+
+
 ![image](https://github.com/user-attachments/assets/6db07d08-5f5f-4099-85dd-a0ac9f0218cb)
 
 ![image](https://github.com/user-attachments/assets/6d125234-c0c3-4ec8-871b-528953926607)
